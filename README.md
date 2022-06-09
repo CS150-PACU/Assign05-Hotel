@@ -2,11 +2,6 @@
 
 Hotel Occupancy Summarizer
 
-**Date assigned:** Monday, October 18, 2021
-
-**Program due:** Friday, October 29, 2021, \[9:15AM Sect 02; 1:00PM Sect
-01\]
-
 **Points**: 35
 
 **Goals:**
@@ -112,6 +107,18 @@ Percentage of occupied rooms: 56.45%
 Percentage of unoccupied rooms: 43.55%
 </pre>
 
+**If there are no floors in the hotel, produce the following output exactly:**
+<pre>
+              *** Hotel Occupancy ***
+
+        Floor        Rooms     Occupied   Unoccupied
+----------------------------------------------------
+----------------------------------------------------
+        Total            0            0            0
+
+Percentage of occupied rooms: 0.00%
+Percentage of unoccupied rooms: 0.00%
+</pre>
 **To complete this assignment, you must submit the following:**
 
 1.  **An electronic Solution of your program on GitHub**
